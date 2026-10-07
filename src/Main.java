@@ -142,7 +142,7 @@ public static void internationalTransfer(Scanner sc) {
 }
 
 public static void buy(Scanner sc) {
-	System.out.println("1. Buying Airtime , VoicePack and Databundles");
+	System.out.println("1. Buying Airtime , VoicePack and Data bundles");
 	System.out.println("2. Electricity");
 	System.out.println("3. International subscription");
 	System.out.println("4. Solar");
